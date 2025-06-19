@@ -1,5 +1,5 @@
 # AzureCode03-InfraSetup
-AzureCode03-InfraSetup - To setup RG, Azure Key Vault, Vnet, Subnet, NIC, NSG, Public IP, VM, SQL Server, SQL Database, by dynacally providing user-prefix for the resources.
+AzureCode03-InfraSetup - To setup RG, Azure Key Vault, Vnet, Subnet, NIC, NSG, Public IP, VM, SQL Server, SQL Database, by dynamically providing user-prefix for the resources.
 
 ## Summary
 #### Following resources are created on the Azure Colud environment by executing the code.
