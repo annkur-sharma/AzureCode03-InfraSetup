@@ -199,7 +199,7 @@ Error: creating Server (Subscription: "00000000-0000-0000-0000-000000000000"
 │   on ..\modules\10-azurerm_mssql_server\main.tf line 1, in resource "azurerm_mssql_server" "child_sqlserver":
 │    1: resource "azurerm_mssql_server" "child_sqlserver" {
 ````
-🔧 In case you face below mentioned error, change the "root_resource_location" to "France Central" or any other available resource location.
+🔧 In case you face above mentioned error, change the "root_resource_location" to "France Central" or any other available resource location.
 ````yaml
 📝 infra01.auto.tfvars
 
